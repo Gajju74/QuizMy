@@ -7,6 +7,7 @@ from random import randint
 
 # Create your views here.
 
+
 defulat_data ={
     'app_name': 'Quiz'
 }
